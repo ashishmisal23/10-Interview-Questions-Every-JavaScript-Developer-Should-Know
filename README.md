@@ -1,6 +1,12 @@
 # 10 Interview Questions Every JavaScript Developer Should Know
 
-## The Keys to JavaScript Mastery
+<div align="center">
+  <a href="https://www.linkedin.com/in/ashishmisal/">
+    <img src="./Intro.jpg" width="70%" height="auto" alt="JavaScript Questions">	
+  </a>
+</div>
+
+## Interview Questions Every JavaScript Developer Should Know
 
 Prepared by: [Ashish Misal](https://www.linkedin.com/in/ashishmisal/)
 
